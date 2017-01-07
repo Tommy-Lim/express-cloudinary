@@ -17,8 +17,12 @@
   },
   "homepage": "https://github.com/bhague1281/express-cloudinary#readme",
   "dependencies": {
+    "cloudinary": "^1.5.0",
+    "dotenv": "^2.0.0",
     "ejs": "^2.4.1",
     "express": "^4.13.4",
-    "express-ejs-layouts": "^2.0.0"
+    "express-ejs-layouts": "^2.0.0",
+    "fs": "0.0.1-security",
+    "multer": "^1.2.1"
   }
 }
